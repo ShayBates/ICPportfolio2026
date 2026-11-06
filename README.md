@@ -1,7 +1,7 @@
 ### ICPportfolio2026
 # Introduction to Computer Programming 2026
 
-## [Your Name]
+## [SHAY BATES]
 
 You must store all of your work in this repo.
 
@@ -10,13 +10,13 @@ Edit this readme to clearly show your progress.
 Replace --to do -- with *** done ***
 
 ## Component 1 Logbook
-[01 Module Introduction](https://github.com/Level4-ICP/Exercises/blob/main/01Introduction.md) --to do --
+[01 Module Introduction](https://github.com/Level4-ICP/Exercises/blob/main/01Introduction.md) *** done ***
 
-[02 Variables, datatypes and operators](https://github.com/Level4-ICP/Exercises/blob/main/02DataTypes.md) --to do --
+[02 Variables, datatypes and operators](https://github.com/Level4-ICP/Exercises/blob/main/02DataTypes.md) *** done ***
 
-[03 Control flow. Functions and modular programming. Variable scope](https://github.com/Level4-ICP/Exercises/blob/main/03ControlFlow.md) --to do --
+[03 Control flow. Functions and modular programming. Variable scope](https://github.com/Level4-ICP/Exercises/blob/main/03ControlFlow.md) *** done ***
 
-[04 User-defined datatypes, structs, unions, and typedefs](https://github.com/Level4-ICP/Exercises/blob/main/04UserDefinedTypes.md) --to do --
+[04 User-defined datatypes, structs, unions, and typedefs](https://github.com/Level4-ICP/Exercises/blob/main/04UserDefinedTypes.md) *** done ***
 
 05 Reading week (no classes, attendance not required) --to do --
 
